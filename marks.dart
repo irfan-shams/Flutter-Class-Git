@@ -1,9 +1,9 @@
 void main() {
-  int subjectOne = 90;
-  int subjectTwo = 90;
-  int subjectThree = 70;
-  int subjectFour = 80;
-  int subjectFive = 80;
+  int subjectOne    = 50;
+  int subjectTwo    = 50;
+  int subjectThree  = 50;
+  int subjectFour   = 50;
+  int subjectFive   = 50;
   int obtainedMarks = (subjectOne + subjectTwo + subjectThree + subjectFour + subjectFive);
   int totalMarks = 500; 
 
