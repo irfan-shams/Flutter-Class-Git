@@ -17,7 +17,7 @@ void main() {
     print("B Grade with $percentage");
   } else if (percentage >= 60) {
     print("C Grade with $percentage");
-  } else if (percentage <= 50) {
+  } else if (percentage >= 50) {
     print("D Grade with $percentage");
   } else {
     print("Failed");
